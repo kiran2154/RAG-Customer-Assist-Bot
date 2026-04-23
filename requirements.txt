@@ -1,0 +1,16 @@
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-chroma>=0.2.0
+langchain-huggingface>=0.1.0
+langchain-groq>=0.2.0
+langchain-text-splitters>=0.3.0
+langgraph>=0.2.0
+chromadb>=0.5.0
+pypdf>=4.2.0
+python-dotenv>=1.0.1
+rich>=13.7.1
+typer>=0.12.3
+sentence-transformers>=3.0.0
+reportlab>=4.2.0
+pytest>=8.2.0
+streamlit>=1.37.0

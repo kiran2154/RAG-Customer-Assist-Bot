@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Database
+chroma_db/
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store

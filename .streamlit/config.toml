@@ -1,0 +1,3 @@
+[server]
+# Avoid noisy module watcher imports (e.g., optional torchvision paths in transformers).
+fileWatcherType = "none"
